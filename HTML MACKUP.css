@@ -1,0 +1,11 @@
+.a{background:red;color:white;font-size:25px}
+.headline{background:whitesmoke;color:orange;font-size:40px;font-family:arial black;
+    text-align:center}
+    .menubar{background:#ddd;color:black;font-size:16px;font-family:arial;text-align:center;padding:30px}
+    .footer{background:#ddd;color:black;font-size:16px;font-family:arial;text-align:center;padding:30px}
+    .sidebar{background:cornflowerblue;color:black;font-size:16px;width:400px;heigh:;float:left;text-align:center}
+    .contactarea{padding:0px;background:white;color:black;font-size:16px;width:770px;float:right;text-align:center}
+    .country{width:1170px;margin:auto}
+    .sidebarcontent{overflow:hidden;}
+    .blue{background:white;color:red;text-align:center}
+    
